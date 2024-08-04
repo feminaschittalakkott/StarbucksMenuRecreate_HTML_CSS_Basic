@@ -45,7 +45,7 @@ h5{
     margin-top: 35px;
     font-family: Verdana, sans-serif;
 }
-.col9 hr{
+.col5 hr{
     background-color: rgba(225, 222, 222, 0.836);
     border: none;
     height: 1px;
@@ -54,20 +54,10 @@ h5{
     margin-left: 30px;
 }
 .m2{
-    margin-left: 30px;
-}
-.m3{
-    margin-left: 30px;
-}
-.m4{
     margin-left: 120px;
     margin-right: 10px;
 }
-.m5{
-    margin-left: 15px;
-    margin-right: 10px;
-}
-.m6{
+.m3{
     margin-left: 15px;
     margin-right: 10px;
 }
@@ -78,23 +68,23 @@ h5{
     /* border: 3px solid; */
     float: left;
 }
-.col5{
+.col1{
     margin-left: auto;
     width: 10%;
 }
-.col6{
+.col2{
     width: 6%;
 }
-.col7{
+.col3{
     width: 10%;
 }
-.col8{
+.col4{
     width: 25%;
 }
-.col9{
+.col5{
     width: 60%;
 }
-.col10{
+.col6{
     width: 60%;
     height: auto;
 }
